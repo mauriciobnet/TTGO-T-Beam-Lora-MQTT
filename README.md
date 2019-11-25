@@ -15,4 +15,4 @@ Conteúdo produzido sobre as seguintes fontes:<br>
 
 **CUIDADO!** A comunicação LoRa desse exemplo não leva em consideração Segurança, é apenas para fins didáticos, no caso de ambiente de produção, criptografar as informações ou utilizar o LoRaWAN.
 
-*Conteúdo apresentado na Latinoware 2019.*
+*Conteúdo apresentado na Latinoware 2019. Apresentação disponível em: http://bit.ly/ApLoRaLatinoware*
