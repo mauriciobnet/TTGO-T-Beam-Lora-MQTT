@@ -5,6 +5,9 @@
 *Diagrama da comunicação proposta*
 ![Diagrama](https://github.com/mauriciobnet/TTGO-T-Beam-Lora-MQTT/raw/master/diagram.png)
 
+**EndPoint** - Responsável pela coleta do sensor e envio via LoRa;<br>
+**Bridge** - Responsável pela coleta do LoRa e envio ao Broker via MQTT;
+
 Conteúdo produzido sobre as seguintes fontes:<br>
 >https://github.com/LilyGO/TTGO-T-Beam<br>
 >https://github.com/plapointe6/EspMQTTClient<br>
